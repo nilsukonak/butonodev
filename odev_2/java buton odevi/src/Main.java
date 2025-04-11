@@ -1,6 +1,6 @@
 //Nilsu Konak 1220505028
 //Esra Ceren Altınok 1220505003
-
+//Swing kullanarak bir gui uygulaması
 
 import javax.swing.*;
 import java.awt.*;
